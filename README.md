@@ -1,13 +1,10 @@
 # Statistician
 
 ### Education
-PhD in Statistics, The University of Auckland, NZ
-
+PhD in Statistics
 ### Work Experience
 - Project 1
 - Project 2
-
-
 
 ### Projects
 
