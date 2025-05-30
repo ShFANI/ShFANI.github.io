@@ -2,6 +2,18 @@
 
 Welcome to my personal website! This site showcases who I am, the work I've done, and the projects I'm proud of.
 
+## 🧑‍💻 About Me
+
+<img src="https://lottie.host/70ad01f4-2732-42fd-9999-7c2066459435/TNWS9nI0o6.json" width="200" align="right" />
+
+Hi, I’m **[Your Name]**, a passionate **[Your Role]** who loves building impactful digital experiences.  
+I enjoy solving real-world problems through **code**, **creativity**, and **continuous learning**.
+
+- 🔭 I’m currently working on [Project Name]
+- 🌱 I’m learning [Technology/Skill]
+- 💬 Ask me about [Topics you’re comfortable discussing]
+- 📫 Contact me at [your email or website]
+
 ## 🧑‍💼 About Me
 
 (Write a short professional summary here.)
