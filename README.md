@@ -41,7 +41,7 @@ A few projects I'm especially proud of:
 
 ## 📫 Contact
 
-Feel free to reach out via [email](mailto:you@example.com) or connect with me on [LinkedIn](https://linkedin.com/in/yourprofile).
+Feel free to reach out via [shabnam.fani@ubc.ca](mailto:you@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shabnam-fani-455860106/).
 
 ---
 
