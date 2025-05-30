@@ -11,10 +11,10 @@ Statistician/Data Scientist with over 10 years of experience in statistical anal
 
 Here are some highlights from my career:
 
- **Biostatistician** at **BC Centre for Disease Control** *, 2022-2024.*  
--	Identified a rising trend in syphilis incidence over a 15-year period using time-series analysis, informing public health policy and targeted intervention strategies.
--	Applied advanced statistical models to uncover geographic and demographic patterns in syphilis prevalence, supporting the development of region-specific prevention programs.
--	Developed predictive models to forecast future trends in syphilis based on historical epidemiological data, enhancing planning and resource allocation for healthcare systems.
+ -**Biostatistician** at **BC Centre for Disease Control** *, 2022-2024.*  
+  -	Identified a rising trend in syphilis incidence over a 15-year period using time-series analysis, informing public health policy and targeted intervention strategies.
+  -	Applied advanced statistical models to uncover geographic and demographic patterns in syphilis prevalence, supporting the development of region-specific prevention programs.
+  -	Developed predictive models to forecast future trends in syphilis based on historical epidemiological data, enhancing planning and resource allocation for healthcare systems.
 
 - **Research Associate and Lecturer** at **The University of British Columbia, Okanagan Campus** *, 2021-2022.* 
 
