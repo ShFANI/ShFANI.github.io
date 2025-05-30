@@ -35,7 +35,7 @@ A few projects I'm especially proud of:
 ### 🚀 [STI Project](https://linktoproject.com)
 
 
-### 📱 [Housing Price Prediction](https://linktoproject.com)
+### 📱 [Housing Price Prediction](https://github.com/ShFANI/shfani.github.io/blob/main/Ames_Regression_GD_NN_Comparison_Updated.ipynb)
 Briefly describe the problem it solves or the experience it provides.
 
 
