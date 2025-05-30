@@ -32,13 +32,12 @@ Here are some highlights from my career:
 
 A few projects I'm especially proud of:
 
-### 🚀 [Project Name](https://linktoproject.com)
-Short description of what the project does, the technologies used, and why it’s interesting.
+### 🚀 [STI Project](https://linktoproject.com)
 
-### 📱 [Another Project](https://linktoproject.com)
+
+### 📱 [Housing Price Prediction](https://linktoproject.com)
 Briefly describe the problem it solves or the experience it provides.
 
-Check out more projects at: [yourwebsite.com/projects](https://yourwebsite.com/projects)
 
 ## 📫 Contact
 
