@@ -14,11 +14,7 @@ I enjoy solving real-world problems through **code**, **creativity**, and **cont
 - 💬 Ask me about [Topics you’re comfortable discussing]
 - 📫 Contact me at [your email or website]
 
-## 🧑‍💼 About Me
-
-(Write a short professional summary here.)
-
-I'm a [your role] with a passion for [your interests or specialties]. I enjoy creating [mention types of work: apps, designs, systems], and I'm always learning new technologies and tools to improve my craft.
+i'm a [your role] with a passion for [your interests or specialties]. I enjoy creating [mention types of work: apps, designs, systems], and I'm always learning new technologies and tools to improve my craft.
 
 👉 [Visit my website](https://yourwebsite.com)
 
