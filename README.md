@@ -11,8 +11,8 @@ Statistician/Data Scientist with over 10 years of experience in statistical anal
 
 Here are some highlights from my career:
 
-- **Biostatistician** at **BC Centre for Disease Control**  
-  *[2022-2024]*  
+- **Biostatistician** at **BC Centre for Disease Control** *[2022-2024]*  
+
   Contributed to [key contributions, technologies used, accomplishments].
 
 - **[Job Title]** at **[Company]**  
