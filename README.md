@@ -1,6 +1,5 @@
 # 🌐 Shabnam Fani
 PhD in Statistics, The University of Auckland 
-Welcome to my personal website! This site showcases who I am, the work I've done, and the projects I'm proud of.
 
 ## 🧑‍💻 About Me
 
