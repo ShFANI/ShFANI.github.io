@@ -22,9 +22,9 @@ Here are some highlights from my career:
   - Mentored and supervised capstone students, guiding end-to-end project development in areas such as predictive modeling, simulation, and data-driven decision-making.
 
 **Postdoctoral Fellow and Lecturer** at **University of Calgary** *, 2018-2021*
-•	Developed advanced statistical models to analyze British Columbia wildfire patterns, resulting in two peer-reviewed publications that contributed to improved understanding of environmental risk factors and prediction accuracy.
-•	Designed and evaluated applied learning projects, including individual and group-based capstone assignments, to strengthen students' capabilities in statistical reasoning, data modeling, and real-world data application.
-•	Mentored and supervised capstone students, guiding end-to-end project development in areas such as predictive modeling, simulation, and data-driven decision-making.
+  - Developed advanced statistical models to analyze British Columbia wildfire patterns, resulting in two peer-reviewed publications that contributed to improved understanding of environmental risk factors and prediction accuracy.
+  -	Designed and evaluated applied learning projects, including individual and group-based capstone assignments, to strengthen students' capabilities in statistical reasoning, data modeling, and real-world data application.
+   - Mentored and supervised capstone students, guiding end-to-end project development in areas such as predictive modeling, simulation, and data-driven decision-making.
 
 ## 🛠️ Projects
 
