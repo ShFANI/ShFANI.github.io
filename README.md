@@ -1,4 +1,4 @@
-# 🌐 Shabnam Fani
+# 🌐 Education
 PhD in Statistics, The University of Auckland 
 
 ## 🧑‍💻 About Me
