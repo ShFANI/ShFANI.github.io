@@ -2,5 +2,5 @@
 
 Welcome to my projects section. Explore the categories below.
 
-- [AI Resume Builder](projects/ai-resume.md)
+- [House Price Prediction]([projects/ai-resume.md](https://github.com/ShFANI/shfani.github.io/blob/main/Ames_Regression_GD_NN_Comparison_Updated.ipynb))
 - [Neural Network Classifier](projects/nn-classifier.md)
