@@ -1,0 +1,6 @@
+- [Home](/)
+- [Work Experience](/work-experience.md)
+- [Projects](/projects.md)
+  - [AI Resume Builder](/projects/ai-resume.md)
+  - [NN Classifier](/projects/nn-classifier.md)
+- [Contact](/contact.md)
