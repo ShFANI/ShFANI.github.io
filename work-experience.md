@@ -1,4 +1,4 @@
-# 💼 Work Experience
+#  Work Experience
 
 Here are some highlights from my career:
 
