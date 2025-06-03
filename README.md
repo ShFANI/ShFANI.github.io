@@ -1,6 +1,5 @@
 # 👩‍💻 Shabnam Fani
 
-
 ---
 
 ## 🎓 Education
