@@ -6,12 +6,12 @@ body {
 
 /* Sidebar font size */
 .sidebar {
-  font-size: 18px; /* Increase this as needed */
+  font-size: 20px; /* Increase this as needed */
 }
 
 /* Sidebar links (more specific) */
 .sidebar ul li a {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 /* Optional: Sidebar section titles */
