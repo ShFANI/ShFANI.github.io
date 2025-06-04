@@ -21,3 +21,4 @@ Here are some highlights from my career:
   -	Led a research project at the Research Institute for Gastroenterology and Liver Diseases, Shahid Beheshti University of Medical Sciences, focusing on nonparametric estimation of baseline hazard and prognostic factors within proportional hazards models for gastric cancer patients, contributing to improved survival analysis techniques and clinical insights.
 
 
+
