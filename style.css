@@ -1,0 +1,12 @@
+body {
+  font-size: 18px;     /* You can adjust to 20px, etc. */
+  line-height: 1.7;
+}
+
+.sidebar {
+  font-size: 16px;
+}
+
+h1, h2, h3, h4 {
+  line-height: 1.4;
+}
