@@ -1,4 +1,24 @@
-# 👩‍💻 Shabnam Fani PhD in Statistics, The University of Auckland
+# 👩‍💻 Shabnam Fani 
+
+**Ph.D. in Statistics | Assistant Teaching Professor | Data Science & AI Educator**
+
+
+
+## 👩‍💻 About Me
+
+Welcome! I'm a statistician and educator with over 15 years of experience in teaching and applied research in statistics, data science, and machine learning. My academic journey includes a Ph.D. in Statistics, postdoctoral research at the University of Calgary and the University of British Columbia (UBC), and current teaching at Northeastern University.
+
+I’m passionate about helping students and organizations harness the power of data through meaningful analytics, statistical modeling, and AI-driven insights. My work often involves applications in healthcare, education, and public policy — with a particular focus on imaging biomarkers and health data analytics.
+
+---
+
+## 🔍 Interests & Expertise
+
+- Statistical Modeling (Survival, Longitudinal, Mixed-Effects)
+- Machine Learning & AI (Neural Networks, Clustering, Feature Selection)
+- Data Visualization & Communication (R, Python, Power BI)
+- Health Data Science (Imaging, Wait-Time Modeling, Predictive Analytics)
+- Blockchain & AI Curriculum Design for MBA Students
 
 
 ---
