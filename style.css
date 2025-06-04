@@ -1,12 +1,21 @@
+/* Body text size */
 body {
-  font-size: 18px;     /* You can adjust to 20px, etc. */
+  font-size: 18px;
   line-height: 1.7;
 }
 
+/* Sidebar font size */
 .sidebar {
-  font-size: 16px;
+  font-size: 18px; /* Increase this as needed */
 }
 
-h1, h2, h3, h4 {
-  line-height: 1.4;
+/* Sidebar links (more specific) */
+.sidebar ul li a {
+  font-size: 18px;
+}
+
+/* Optional: Sidebar section titles */
+.sidebar .app-name,
+.sidebar .app-sub-sidebar li a {
+  font-size: 18px;
 }
