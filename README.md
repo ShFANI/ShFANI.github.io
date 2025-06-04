@@ -1,6 +1,6 @@
 # 👩‍💻 Shabnam Fani 
 
-**Ph.D. in Statistics | Assistant Teaching Professor | Data Science & AI Educator**
+**Ph.D. in Statistics | Biostatistician | Data Science & AI Educator**
 
 ## 🧑‍💻 About Me
 
@@ -9,10 +9,9 @@ Statistician/Data Scientist with over 10 years of experience in statistical anal
 ## 🔍 Interests & Expertise
 
 - Statistical Modeling (Survival, Longitudinal, Mixed-Effects)
-- Machine Learning & AI (Neural Networks, Clustering, Feature Selection)
-- Data Visualization & Communication (R, Python, Power BI)
+- Machine Learning & AI (Generalized Linear Model, Neural Networks, Clustering, Feature Selection)
+- Data Visualization & Communication (R, Python, Shiny App)
 - Health Data Science (Imaging, Wait-Time Modeling, Predictive Analytics)
-- Blockchain & AI Curriculum Design for MBA Students
 
 
 
