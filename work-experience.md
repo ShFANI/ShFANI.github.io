@@ -36,7 +36,14 @@ organizing monthly departmental seminars to promote collaborative learning and r
 - Led a population health research project analyzing mortality trends in New Zealand, comparing Indigenous and non-Indigenous populations, with a focus on identifying health disparities and informing equity-driven health policy.
   
 **Data Scientist and Researcher** - **Research Institute for Gastroenterology and Liver Diseases** *, 2007-2008*
-  -	Led a research project at the Research Institute for Gastroenterology and Liver Diseases, Shahid Beheshti University of Medical Sciences, focusing on nonparametric estimation of baseline hazard and prognostic factors within proportional hazards models for gastric cancer patients, contributing to improved survival analysis techniques and clinical insights.
+- Designed a retrospective cohort using hospital cancer registry and EMR data; defined inclusion/exclusion,
+baseline, and follow-up windows; primary endpoints: overall survival and disease-free survival.
+- Used SQL to extract, join, and transform relational registry/EMR tables into analysis-ready datasets; built reproducible data pipelines and validation checks (duplicates, missingness, consistency).
+- Managed data quality: variable harmonization, outcome verification, missing-data handling (multiple imputation), etc.
+- Addressed confounding and case-mix differences; ran sensitivity analyses for model robustness.
+- Generated parametric survival fits (e.g., Weibull/log-logistic) for a model comparison with proportional hazard models.
+- Delivered stakeholder-ready reporting through Power BI dashboards (key cohort characteristics, outcomes, and trends) and an interactive R Shiny app for exploratory analysis and stratified survival visualization.
+
 
 
 
