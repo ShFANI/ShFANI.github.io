@@ -12,7 +12,10 @@ Statistician/Data Scientist with over 15 years of experience in designing resear
 - Machine Learning & AI (Generalized Linear Model, Neural Networks, Clustering, Feature Selection)
 - Data Visualization & Communication (R, Python, Shiny App, Databricks)
 - Health Data Science (Imaging, Wait-Time Modeling, Predictive Analytics)
-- Business Data Science (Demand Forecasting, A/B testing and Uplift Modleing, Churn Prediction, Customer Segmentation)
+- Business Data Science (Demand Forecasting, A/B testing and Uplift Modeling, Churn Prediction, Customer Segmentation)
+
+
+
 
 
 
