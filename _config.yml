@@ -1,6 +1,8 @@
 title: "My Portfolio"
 description: "Personal website with About, Work Experience, and Projects"
-theme: jekyll-theme-cayman
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
 show_downloads: false
 
 
