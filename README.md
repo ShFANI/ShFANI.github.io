@@ -1,6 +1,6 @@
 # 👩‍💻 Shabnam Fani 
 
-**Ph.D. in Statistics | Biostatistician | Data Science & AI Educator**
+**Ph.D. in Statistics | Statistician | Data Science & AI Educator**
 
 ## 🧑‍💻 About Me
 
