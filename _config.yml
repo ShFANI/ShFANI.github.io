@@ -1,11 +1,7 @@
 title: "My Portfolio"
 description: "Personal website with About, Work Experience, and Projects"
 
-remote_theme: "mmistakes/minimal-mistakes"
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
+theme: jekyll-theme-cayman
 
 show_downloads: false
 
