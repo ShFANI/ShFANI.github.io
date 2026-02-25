@@ -1,6 +1,6 @@
 title: "My Portfolio"
 description: "Personal website with About, Work Experience, and Projects"
-theme: Architect
+theme: jekyll-theme-architect
 show_downloads: false
 
 
