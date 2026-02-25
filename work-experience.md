@@ -2,7 +2,7 @@
 
 Here are some highlights from my career:
 
-**Biostatistician / Dat Scientist** - **BC Centre for Disease Control** *, 2022-2024.*  
+**Statistician / Dat Scientist** - **BC Centre for Disease Control** *, 2022-2024.*  
 - Led design and implementation of predictive models and advanced statistical analysis to forecast syphilis trends in BC and informing evidence-based decision-making for provincial programs.
 - Built and maintained data pipelines and analytic datasets by integrating surveillance, clinical, and administrative data using SQL and R.
 - Established analysis plans and produced validated tables, listings, and figures (TLFs) for internal reviews and public-health reporting; ensured traceability and reproducibility with R and version control at GitHub.
