@@ -1,13 +1,13 @@
 title: "My Portfolio"
 description: "Personal website with About, Work Experience, and Projects"
-remote_theme: just-the-docs/just-the-docs
-plugins:- jekyll-remote-theme
-# Optional (nice defaults)
-search_enabled: true
-color_scheme: light
-show_downloads: false
-search_enabled: true
 
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+show_downloads: false
 
 
 
