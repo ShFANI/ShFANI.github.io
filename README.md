@@ -8,10 +8,11 @@ Statistician/Data Scientist with over 15 years of experience in designing resear
 
 ## 🔍 Interests & Expertise
 
-- Statistical Modeling (Survival Analysis, Mixed-Effects Model)
+- Statistical Modeling (Survival Analysis, Mixed-Effects Model, Time Series Model)
 - Machine Learning & AI (Generalized Linear Model, Neural Networks, Clustering, Feature Selection)
 - Data Visualization & Communication (R, Python, Shiny App, Databricks)
 - Health Data Science (Imaging, Wait-Time Modeling, Predictive Analytics)
+- Business Data Science (Demand Forecasting, A/B testing and Uplift Modleing, Churn Prediction, Customer Segmentation)
 
 
 
